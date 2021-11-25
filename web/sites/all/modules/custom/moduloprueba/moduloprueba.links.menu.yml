@@ -1,0 +1,5 @@
+moduloprueba.homepage:
+  title: Modulo de prueba
+  description: 'Despliegue de la prueba'
+  parent: system.admin_config_ui
+  route_name: moduloprueba.content

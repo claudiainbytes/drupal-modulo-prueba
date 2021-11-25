@@ -1,0 +1,7 @@
+moduloprueba:
+  version: 1.x
+  css:
+    component:
+      css/style.css: {}
+  js:
+    js/app.js: {}

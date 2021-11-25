@@ -1,0 +1,7 @@
+moduloprueba.content:
+    path: '/prueba/index'
+    defaults:
+        _controller: '\Drupal\moduloprueba\Controller\PruebaController::index'
+        _title: 'Modulo de prueba'
+    requirements:
+        _permission: 'access content'

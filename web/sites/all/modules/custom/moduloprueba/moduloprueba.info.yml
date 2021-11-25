@@ -1,0 +1,8 @@
+name: Módulo de prueba
+description: Módulo de prueba cargo desarrollador front ssr.
+package: Custom
+ 
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9
+

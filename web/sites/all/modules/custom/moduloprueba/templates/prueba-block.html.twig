@@ -1,0 +1,7 @@
+{# [module]/templates/prueba-block.html.twig #}
+{{ attach_library('moduloprueba/moduloprueba') }}
+<div class="square">
+    {% for i in 1..3 %}
+        <div class="square__square-{{i}}"></div>
+    {% endfor %}
+</div>
